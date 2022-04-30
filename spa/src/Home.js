@@ -14,7 +14,7 @@ const Home = () => {
       </div>
     );
   } else {
-    return "You authenticated bitch!";
+    return "You authenticated...!";
   }
 };
 export default Home;
